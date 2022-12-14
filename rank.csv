@@ -1,0 +1,82 @@
+How practitioners perceive coding proficiency,23
+Analyzing and supporting adaptation of online code examples,20
+Grey-box concolic testing on binary code,51
+Pattern-based mining of opinions in Q\&A websites,44
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge,12
+Developer reading behavior while summarizing java methods: Size and context matters,36
+Software documentation issues unveiled,89
+Leveraging artifact trees to evolve and reuse safety cases,13
+Why does code review work for open source software communities?,24
+Mining historical test logs to predict bugs and localize faults in the test logs,22
+Analysis and detection of information types of open source software issue discussions,57
+Restler: Stateful rest api fuzzing,97
+Dynamic slicing for android,12
+Towards understanding and reasoning about android interoperations,8
+Why do episodic volunteers stay in FLOSS communities?,21
+Class imbalance evolution and verification latency in just-in-time software defect prediction,46
+Detecting atomicity violations for event-driven Node. js applications,11
+Latent patterns in activities: A field study of how developers manage context,12
+Storydroid: Automated generation of storyboard for Android apps,62
+How reliable is the crowdsourced knowledge of security implementation?,43
+Deep differential testing of JVM implementations,37
+Greenbundle: an empirical study on the energy impact of bundled processing,12
+Interactive production performance feedback in the IDE,13
+Scalable approaches for test suite reduction,34
+Investigating the impact of multiple dependency structures on software defects,15
+Rotten green tests,13
+Bugswarm: Mining and continuously growing a dataset of reproducible failures and fixes,55
+Leopard: Identifying vulnerable code for vulnerability assessment through program metrics,55
+How C++ developers use immutability declarations: An empirical study,3
+Graph embedding based familial analysis of android malware using unsupervised learning,58
+Smoke: scalable path-sensitive memory leak detection for millions of lines of code,28
+Detection and repair of architectural inconsistencies in java,15
+Gigahorse: thorough, declarative decompilation of smart contracts,70
+Practical GUI testing of Android applications via model abstraction and refinement,73
+Deepperf: performance prediction for configurable software with deep sparse neural network,61
+Ctras: Crowdsourced test report aggregation and summarization,30
+9.6 million links in source code comments: Purpose, evolution, and decay,52
+A system identification based oracle for control-cps software fault localization,14
+When code completion fails: A case study on real-world completions,40
+Resource-aware program analysis via online abstraction coarsening,16
+Supporting the statistical analysis of variability models,17
+Dockerizeme: Automatic inference of environment dependencies for python code snippets,32
+Safecheck: Safety enhancement of Java unsafe API,5
+Distilling neural representations of data structure manipulation using fMRI and fNIRS,22
+Investigating the effects of gender bias on GitHub,58
+Search-based energy testing of android,34
+Statistical algorithmic profiling for randomized approximate programs,13
+Distance-based sampling of software configuration spaces,74
+Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects,25
+Type migration in ultra-large-scale codebases,20
+Safe automated refactoring for intelligent parallelization of Java 8 streams,44
+Mimic: UI compatibility testing system for Android apps,18
+Guiding deep learning system testing using surprise adequacy,252
+Reasonably-most-general clients for JavaScript library analysis,15
+Multifaceted automated analyses for variability-intensive embedded systems,13
+On reliability of patch correctness assessment,56
+A neural model for generating natural language summaries of program subroutines,177
+FLOSS participants' perceptions about gender and inclusiveness: a survey,37
+DLFinder: characterizing and detecting duplicate logging code smells,38
+Detecting incorrect build rules,13
+Intention-based integration of software variants,18
+Learning to spot and refactor inconsistent method names,92
+NL2Type: inferring JavaScript function types from natural language information,104
+Symbolic repairs for GR (1) specifications,29
+Probabilistic disassembly,37
+Training binary classifiers as data structure invariants,13
+Automatically generating precise oracles from structured natural language specifications,24
+Do developers discover new tools on the toilet?,8
+Graph-based mining of in-the-wild, fine-grained, semantic code change patterns,42
+Focus: A recommender system for mining api function calls and usage patterns,71
+DifFuzz: differential fuzzing for side-channel analysis,58
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems,8
+CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries,81
+FastLane: Test minimization for rapidly deployed large-scale online services,15
+Going farther together: The impact of social capital on sustained participation in open source,78
+Natural software revisited,38
+The seven sins: Security smells in infrastructure as code scripts,102
+The list is the process: Reliable pre-integration tracking of commits on mailing lists,16
+Zero-overhead path prediction with progressive symbolic execution,10
+Harnessing evolution for multi-hunk program repair,72
+Towards automating precision studies of clone detectors,9
+Socio-technical work-rate increase associates with changes in work patterns in online projects,13
